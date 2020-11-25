@@ -1,0 +1,12 @@
+{
+  "name": "clicknload2text-js",
+  "version": "1.0",
+  "description": "",
+  "main": "cnl2text.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PANCHO7532",
+  "license": "GPL-3.0-or-later"
+}
